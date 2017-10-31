@@ -17,7 +17,15 @@ module.exports = function(environment) {
         Date: false
       }
     },
-
+    
+      firebase: {
+    apiKey: "AIzaSyDqFNL9KpysPtwWW5r0KEOJcCDx8wuvH8w",
+        authDomain: "question-and-answer-bfeca.firebaseapp.com",
+        databaseURL: "https://question-and-answer-bfeca.firebaseio.com",
+        projectId: "question-and-answer-bfeca",
+        storageBucket: "question-and-answer-bfeca.appspot.com",
+        messagingSenderId: "385835790054"
+      },
     APP: {
       // Here you can pass flags/options to your application instance
       // when it is created

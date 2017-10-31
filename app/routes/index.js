@@ -4,12 +4,12 @@ export default Ember.Route.extend({
   model() {
     return Ember.RSVP.hash({
       questions: this.store.findAll('question'),
-      answer: this.store.findAll('answer')
+      answers: this.store.findAll('answer')
     });
   },
-  
+
   actions: {
-    saveQuestions(params) {
+    saveQuestion(params) {
       var newQuestion = this.store.createRecord('question', params);
       newQuestion.save();
       this.transitionTo('index');
