@@ -7,6 +7,7 @@ export default Ember.Route.extend({
       answer: this.store.findAll('answer')
     });
   },
+  
   actions: {
     saveQuestions(params) {
       var newQuestion = this.store.createRecord('question', params);
