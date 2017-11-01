@@ -1,5 +1,5 @@
 {{outlet}}
-
+<img src="http://clipartix.com/wp-content/uploads/2016/08/Questions-powerpoint-question-mark-clip-art.jpg"height="200" width="">
 <ul>
   {{#each model.questions as |question|}}
     {{question-tile question=question}}
@@ -7,3 +7,6 @@
 </ul>
 
 {{new-question saveQuestion="saveQuestion"}}
+
+{{#link-to 'about'}}About{{/link-to}}
+{{#link-to 'contact'}}Click here to contact us.{{/link-to}}
