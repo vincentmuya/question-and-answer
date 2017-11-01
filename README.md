@@ -1,12 +1,7 @@
 # Q&A Message Board
+it's an application where a user submits a question and other users can respond with answers.
 
-Epicodus project demonstrating a basic understanding of how to build a web application using the MVC Ember.  
-
-By Quinn Schwartz
-
-## Description
-
-This web page will enable the user to enter and edit questions that can be saved to a forum and can be answered by other users (Javascript week 2 independent project).  
+By **Vincent Muya**
 
 ## Prerequisites
 
@@ -20,36 +15,16 @@ You will need the following things properly installed on your computer.
 
 ## Installation
 
-* `git clone <repository-url>` this repository
-* `cd question-answer`
+* `git clone this repository
 * `npm install`
 * `bower install`
 
-## Running / Development
+## Running
 
 * `ember serve`
 * Visit your app at [http://localhost:4200](http://localhost:4200).
-
-### Code Generators
-
-Make use of the many generators for code, try `ember help generate` for more details
-
-### Running Tests
-
-* `ember test`
-* `ember test --server`
 
 ### Building
 
 * `ember build` (development)
 * `ember build --environment production` (production)
-
-## link
-
-https://quinnschwartz.github.io/doctor-lookup/
-
-## Legal  
-
-this software is licensed under the MIT license.
-
-Copyright (c) 2017 _Quinn Schwartz
