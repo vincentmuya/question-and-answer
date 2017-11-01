@@ -18,10 +18,10 @@ module.exports = function(environment) {
     },
 
     firebase: {
-      apiKey: 'AIzaSyB1S-Ml1NOo-TcCoHP5-ADotye3LjvOi6Y',
-      authDomain: 'question-answer-3d230.firebaseapp.com',
-      databaseURL: 'https://question-answer-3d230.firebaseio.com',
-      storageBucket: 'question-answer-3d230.appspot.com'
+      apiKey: "AIzaSyDqFNL9KpysPtwWW5r0KEOJcCDx8wuvH8w",
+      authDomain: "question-and-answer-bfeca.firebaseapp.com",
+      databaseURL: "https://question-and-answer-bfeca.firebaseio.com",
+      storageBucket: "question-and-answer-bfeca.appspot.com",
     },
 
 
