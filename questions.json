@@ -1,0 +1,18 @@
+{
+	"questions": [{
+			"author": "Robbin Waititu",
+			"content" : "A little girl kicks a soccer ball. It goes 10 feet and comes back to her?",
+			"notes": "How is this possible?"
+		},{
+			"author": "Alex Mwangi ",
+			"content" : "A is the father of B. But B is not the son of A. ?",
+			"notes": "Think about it"
+	}],
+	"answers":[{
+			"author": "Vincent Muya",
+			"content": "Ever heard of gravity? She kicked it up."
+		},{
+			"author": "Amanda Wnjiku",
+			"content": "B is the daughter."
+	}]
+}

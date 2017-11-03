@@ -1,5 +1,10 @@
-body {
-  background-color: #ffdd99;
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    // background-color: yellow;
 }
 h1 {
   text-align: center;
@@ -13,10 +18,10 @@ nav {
   margin: 50px;
 }
 
-ul {
-  overflow: auto;
-  list-style-type: none;
-}
+// ul {
+//   overflow: auto;
+//   list-style-type: none;
+// }
 
 li {
   height: 25px;
